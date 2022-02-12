@@ -1,0 +1,2 @@
+# ajajblog
+my blog site
